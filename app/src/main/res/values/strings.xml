@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">EGreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Name</string>
+    <string name="nav_header_subtitle">a.s@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">SignOut</string>
+    <string name="action_cart">Cart</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="category_categoryF">Categories</string>
+    <string name="category_seasonal">Seasonal </string>
+    <string name="category_combo">Combo</string>
+
+
+    <string name="category_signIn">SignUp</string>
+    <string name="category_signUp">SignIn</string>
+
+    <string name="facebook_app_id">372745626814333</string>
+    <string name="fb_login_protocol_scheme">fb372745626814333</string>
+    <string name="invalid_phone">Enter a valid phone number !!</string>
+
+
+</resources>
