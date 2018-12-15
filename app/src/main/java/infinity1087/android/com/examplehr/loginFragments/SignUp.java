@@ -90,7 +90,7 @@ public class SignUp extends Fragment implements Validator.ValidationListener {
     private void initViews(View view) {
 
         edt_fname = view.findViewById(R.id.edt_fname);
-        edt_lname = view.findViewById(R.id.edt_signUp_password);
+        edt_lname = view.findViewById(R.id.edt_lname);
         edt_phone = view.findViewById(R.id.edt_phone);
         edt_password = view.findViewById(R.id.edt_signUp_password);
 
